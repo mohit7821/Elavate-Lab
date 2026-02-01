@@ -20,3 +20,14 @@ docker-demo/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
+
+## Steps
+- Created a Flask application
+- Wrote Dockerfile
+- Built Docker image
+- Ran container and exposed port 5000
+
+## Learning Outcomes
+- Understood Docker images and containers
+- Learned Dockerfile structure
+- Ran and managed containers
